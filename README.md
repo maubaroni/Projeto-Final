@@ -25,12 +25,12 @@ O objetivo do trabalho é avaliar o impacto do programa de planejamento de produ
 - Exploração e Análise dos Dados – shape, columns, info, unique
 - Técnicas de Agregação de DataFrame – loc, groupby, merge
 
-![alt text](IMAGEM JUPYTER)
+![alt text](https://github.com/maubaroni/Projeto-Final/blob/master/9_jupyter.png)
 
 ## Métodos Utilizados no Tableau: 
 - Exploração e Análise dos Dados – Lei do Pareto, Agregação, Clusterização, Média&Mediana, Linha de Tendência, coeficiênte de determinação
 
-![alt text](IMAGEM TABLEAU)
+![alt text](https://github.com/maubaroni/Projeto-Final/blob/master/10_Tableau.png)
 
 
 ## Análise e Exploração do Trabalho
@@ -39,5 +39,5 @@ O objetivo do trabalho é avaliar o impacto do programa de planejamento de produ
 
 # Considerações Finais: 
 
-![alt text](IMAGEM CONSIDERACOESFINAIS)
+![alt text](https://github.com/maubaroni/Projeto-Final/blob/master/11_ConsideracoesFinais.png)
 
