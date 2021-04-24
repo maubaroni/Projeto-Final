@@ -1,6 +1,6 @@
 # A FANTÁSTICA FÁBRICA DE CHOCOLATE
 
-![alt text](https://static6.depositphotos.com/1098692/603/i/600/depositphotos_6033070-stock-photo-chocolate.jpg)
+![alt text]()
 
 Análise de um banco de dados fictício sobre a performance de produção de uma fábrica de chocolate que possui três linhas de fabricação. 
 
